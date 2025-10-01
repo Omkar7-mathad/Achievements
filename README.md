@@ -1,1 +1,1 @@
-# Codecrafter!
+# Codecrafter
